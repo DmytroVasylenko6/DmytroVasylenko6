@@ -8,7 +8,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/dmytro-vasylenko-4096211b8/" target="_blank">
@@ -18,13 +18,13 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100008214720165" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/733547.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
