@@ -58,4 +58,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmytroVasylenko6)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dmytrovasylenko6)
