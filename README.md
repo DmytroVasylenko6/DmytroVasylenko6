@@ -2,9 +2,9 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmytro_vasylenko6) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tredstoun651@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-dmytrovasylenko6-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmytro_vasylenko6) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tredstoun651@gmail.com)
 
 ---
 
@@ -18,7 +18,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100008214720165" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" alt="Facebook Badge"/>
     </a>
   </div>
 
