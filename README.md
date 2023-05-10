@@ -46,7 +46,7 @@
 
 ![codewars](https://www.codewars.com/users/DmytroVasylenko6/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
