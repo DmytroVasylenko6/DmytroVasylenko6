@@ -3,8 +3,10 @@
 ---
 
 ### :man_technologist: About me:
-- 💼 FrontEnd Engineer at [Pics.io](https://pics.io/)<img src="
-https://landing-assets.pics.io/img/picsio/creative-project-management/access-your-projects@2x.webp" width="40" height="40" alt="picsio" />
+- 💼 FrontEnd Engineer at [Pics.io](https://pics.io/)
+<div>
+    <img src="https://landing-assets.pics.io/img/picsio/creative-project-management/access-your-projects@2x.webp" width="40" height="40" alt="picsio" />
+</div>
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-dmytrovasylenko6-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmytro_vasylenko6) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tredstoun651@gmail.com)
 
