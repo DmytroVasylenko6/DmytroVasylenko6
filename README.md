@@ -3,6 +3,7 @@
 ---
 
 ### :man_technologist: About me:
+- 💼 FrontEnd Engineer at [Pics.io](https://pics.io/)
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-dmytrovasylenko6-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmytro_vasylenko6) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tredstoun651@gmail.com)
 
